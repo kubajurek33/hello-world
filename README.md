@@ -3,6 +3,6 @@ Repozytorium do ćwiczeń
 
 Przykładowa zmiana w pliku README w celu zobrazowania działania systemu kontroli wersji
 
-2
+22
 
-3
+33
